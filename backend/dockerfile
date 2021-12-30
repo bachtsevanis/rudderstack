@@ -1,4 +1,4 @@
-FROM rudderlabs/rudder-server:master
+FROM rudderlabs/rudder-server:lastest
 COPY entrypoint.sh /
 ENTRYPOINT ["/entrypoint.sh"]
 CMD ["/rudder-server"]

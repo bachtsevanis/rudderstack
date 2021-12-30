@@ -1,1 +1,1 @@
-FROM rudderlabs/rudder-transformer:latest
+FROM rudderlabs/rudder-transformer:02072021.090604

@@ -1,4 +1,4 @@
-FROM rudderlabs/rudder-server:29122021.174550
+FROM rudderlabs/rudder-server:10122021.145422
 COPY entrypoint.sh /
 ENTRYPOINT ["/entrypoint.sh"]
 CMD ["/rudder-server"]

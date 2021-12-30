@@ -1,1 +1,1 @@
-FROM rudderlabs/rudder-transformer:master
+FROM rudderlabs/rudder-transformer
